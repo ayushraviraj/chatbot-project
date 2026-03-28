@@ -24,7 +24,7 @@ jsonpatch==1.33
 jsonpointer==3.0.0
 jsonschema==4.25.0
 jsonschema-specifications==2025.4.1
-langchain==0.3.27
+langchain==0.2.16
 langchain-core==0.3.72
 langchain-openai==0.3.28
 langchain-text-splitters==0.3.9
@@ -37,7 +37,7 @@ langsmith==0.4.8
 MarkupSafe==3.0.2
 narwhals==2.0.1
 numpy==2.3.2
-openai==1.98.0
+openai==0.28
 orjson==3.11.1
 ormsgpack==1.10.0
 packaging==25.0
