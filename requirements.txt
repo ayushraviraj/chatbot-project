@@ -1,5 +1,7 @@
 ﻿streamlit
 langchain
+langchain-community
+langchain-text-splitters
 langgraph
 faiss-cpu
 sentence-transformers
@@ -7,4 +9,4 @@ huggingface-hub
 duckduckgo-search
 python-dotenv
 aiosqlite
-langchain-text-splitters
+pypdf
